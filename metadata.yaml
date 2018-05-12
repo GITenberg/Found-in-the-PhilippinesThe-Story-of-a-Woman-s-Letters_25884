@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25884#Found-in-the-PhilippinesThe-Story-of-a-Woman-s-Letters
 gutenberg_issued: '2008-06-23'
 gutenberg_type: Text
 identifiers:
